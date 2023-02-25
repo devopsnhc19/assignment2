@@ -1,0 +1,8 @@
+class add
+{
+     public static void main(String args[])
+    {
+      int l=10,b=20;
+     System.out.print("Area of triangle is"+(0.5*l*b));
+   }
+}
